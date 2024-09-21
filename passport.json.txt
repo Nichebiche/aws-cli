@@ -1,0 +1,6 @@
+[
+	{
+		"code": 403,
+		"error": "You have been active on Ethereum on 7 distinct days. You must be active for 50 days to obtain this stamp."
+	}
+]
